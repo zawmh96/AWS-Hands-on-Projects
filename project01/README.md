@@ -43,7 +43,7 @@ sudo amazon-linux-extras install epel
 sudo yum install google-authenticator
 ```
 
-#### Install qrencode-libs to perform second factor authentication using QR code
+#### Install qrencode-libs to perform mult-factor authentication using QR code
 ```
 sudo yum install qrencode-libs
 ```
