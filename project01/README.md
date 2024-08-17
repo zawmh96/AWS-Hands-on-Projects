@@ -11,7 +11,7 @@ This guide will help you set up multi-factor authentication (MFA) using Google A
 
 ## Prerequisites
 
-- AWS user credentials (access ID and key)
+- AWS IAM user credentials (access ID and key) and IAM Role
 - Configured AWS credentials on your local machine
 - A key pair for the instance
 
