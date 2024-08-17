@@ -17,3 +17,18 @@ This guide will help you set up multi-factor authentication (MFA) using Google A
 
 ## Setup Environment Using Terraform (Infrastructure as Code)
 
+### Initialize the directory
+```
+terraform init
+```
+
+### Format and validate the configuration
+```
+terraform fmt
+terraform validate
+```
+
+### Create AWS infrastructure
+```
+terraform apply
+```
