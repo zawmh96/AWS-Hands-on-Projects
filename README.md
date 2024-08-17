@@ -1,4 +1,4 @@
-# AWS-Hands-on-Projects
+# AWS Hands on Projects
 
 Welcome to the AWS-Hands-on-Projects repository! This repository contains a collection of practical projects designed to help you learn and explore various AWS services.
 
