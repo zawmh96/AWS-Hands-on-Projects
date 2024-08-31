@@ -1,7 +1,7 @@
 # Configure the AWS provider
 provider "aws" {
   region  = "ap-northeast-1"
-  profile = "master-programmatic-admin-role"
+  profile = "dev-programmatic-admin-role"
 }
 
 # Create a VPC
@@ -156,10 +156,6 @@ resource "aws_eip" "bastion-eip" {
   domain                  = "vpc"
   network_interface       = aws_network_interface.bastion-ip.id
   associate_with_private_ip = "10.10.1.50"
-}
-
-output "bastion-pub-ip" {
-  value = aws_eip.bastion-eip.public_ip
 }
 
 # Create the bastion host in the public subnet
