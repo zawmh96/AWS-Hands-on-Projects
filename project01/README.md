@@ -30,6 +30,7 @@ terraform validate
 
 ### Create AWS infrastructure
 ```
+terraform plan
 terraform apply
 ```
 
