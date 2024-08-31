@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates how to host a static website on AWS using Amazon S3 and Amazon CloudFront. The goal is to create a highly available, scalable, and globally distributed static website with minimal infrastructure management.
 
-## Architecture
+## Architecture Diagram
 ![PJ-02](https://github.com/user-attachments/assets/cba0796c-b26e-4b27-bcf6-c8e5839e8c6c)
 
 ## Prerequisites
