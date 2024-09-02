@@ -97,6 +97,3 @@ Purpose: CloudFront is a Content Delivery Network (CDN) that caches the website 
 
 - Test the website by accessing it from different geographic locations (use VPN or online tools).
 - Check that CloudFront is caching and serving content from the edge locations.
-
-
-#### Step 3: Test accessing to Static Website
