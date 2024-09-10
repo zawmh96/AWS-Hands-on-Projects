@@ -1,4 +1,4 @@
-# How to Protect Your Server with Multi-Factor Authentication on AWS
+# How to Protect Your Bastion Host with Multi-Factor Authentication on AWS
 
 ## Overview
 
