@@ -16,7 +16,7 @@ This repository aims to provide hands-on experience with AWS by exploring differ
 
 Here is a list of the projects available in this repository:
 
-1. [Project 1: How to Protect Your Server With Multi-Factor Authentication on AWS](project01/README.md)
+1. [Project 1: How to Protect Your Bastion Host With Multi-Factor Authentication on AWS](project01/README.md)
 2. [Project 2: Static Website Hosting with S3 and CloudFront](project02/README.md)
 3. [Project 3: AWS EC2 Auto Scaling](projects/project3/README.md)
 4. [Project 4: AWS DynamoDB Data Modeling](projects/project4/README.md)
